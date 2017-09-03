@@ -1,0 +1,6 @@
+<resources>
+	<spritesheet>
+		<imagesrc>vaishnavuday_sprites.png</imagesrc>
+		<framesrc>gamemanager.xml</framesrc>
+	</spritesheet>
+</resources>
